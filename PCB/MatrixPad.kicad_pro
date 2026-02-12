@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DesignerPad.kicad_pro",
+    "filename": "MatrixPad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "D:/Github DesignerPad/DesignerPad/Production/",
+      "plot": "D:/MatrixPad/Production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "DesignerPad.step",
